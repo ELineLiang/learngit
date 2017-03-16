@@ -1,3 +1,5 @@
 <?php
-echo 'hello world';
+echo 'hello world hahaha';
+
+print_r('hello word);
 ?>
